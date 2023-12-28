@@ -1,0 +1,8 @@
+
+path: '/content/OID/Dataset' # dataset root dir
+train: train/Human body/  # train images (relative to 'path')
+val: test/Human body/  # val images (relative to 'path')
+
+# Classes
+names:
+  Human body: body
